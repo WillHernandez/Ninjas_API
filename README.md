@@ -1,0 +1,1 @@
+Simple unfinised API using MERN stack of ninjas and their super powers. Will be utilized on a future project possibly.
